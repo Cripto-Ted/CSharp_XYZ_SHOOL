@@ -26,13 +26,8 @@ namespace UnitBrains.Player
                 {
                     _switchTimer = 0f;
                     _isSwitching = false;
-                    
                     _isMoving = !_isMoving;
                 }
-            }
-            else
-            {
-                _isSwitching = true;
             }
         }
 

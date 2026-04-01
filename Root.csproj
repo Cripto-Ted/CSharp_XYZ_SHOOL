@@ -67,7 +67,6 @@
     <Compile Include="Assets/Scripts/Utilities/CameraPositioning.cs" />
     <Compile Include="Assets/Scripts/View/ChooseUnitView.cs" />
     <Compile Include="Assets/Scripts/View/UnitCardView.cs" />
-    <Compile Include="Assets/Scripts/UnitBrains/UnitCoordinator.cs" />
     <Compile Include="Assets/Scripts/UnitBrains/Player/DefaultPlayerUnitBrain.cs" />
     <Compile Include="Assets/Scripts/View/LevelFinishedView.cs" />
     <Compile Include="Assets/Scripts/View/Gameplay3dView.cs" />
@@ -109,7 +108,6 @@
     <Compile Include="Assets/Scripts/Utilities/MapGenerator.cs" />
     <Compile Include="Assets/Scripts/Controller/BotController.cs" />
     <Compile Include="Assets/Scripts/Controller/SimulationController.cs" />
-    <Compile Include="Assets/Scripts/UnitBrains/Pathfinding/AStarUnitPath.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Scripts/Root.asmdef" />
